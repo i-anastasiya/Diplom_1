@@ -7,4 +7,3 @@ class InfoBun:
     INGREDIENT_CUTLETE = "ingredient_cutlete"
     INGREDIENT_CHICKEN = "ingredient_chicken"
     INGRIDIET_FISH = "ingredient_fish"
-    # RECEIPT = '(==== black bun ====)\n= sauce sour cream =\n(==== black bun ====)\n\nPrice: 80'
